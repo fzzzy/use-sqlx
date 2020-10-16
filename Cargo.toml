@@ -9,3 +9,5 @@ edition = "2018"
 [dependencies]
 sqlx = { version = "0.3.5", features = ["mysql"] }
 async-std = "1.6.5"
+futures = "0.3"
+
